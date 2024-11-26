@@ -1,12 +1,12 @@
 ## Marta's GitHub
 
-- About Me + Contact: [pionaiki.com](https://pionaiki.com)
-- Digital Garden: [Cacti Garden](https://garden.pionaiki.com)
-- Akkoma (Mastodon): [@marta@corteximplant.net](https://corteximplant.net/marta)
+- ℹ️ About Me + Contact: [pionaiki.com](https://pionaiki.com)
+- 🌵 Digital Garden: [Cacti Garden](https://garden.pionaiki.com)
+- 🧙🏻‍♀️ Akkoma (Mastodon): [@marta@corteximplant.net](https://corteximplant.net/marta)
 
 #### Other git accounts
-- Forgejo: https://git.cyberwa.re/marta
-- Gitea: https://git.xenua.me/marta
+- ⚒️ Forgejo: [git.cyberwa.re/marta](https://git.cyberwa.re/marta)
+- 🍵 Gitea: [git.xenua.me/marta](https://git.xenua.me/marta)
 
 <!--
 **pionaiki/pionaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
