@@ -5,6 +5,7 @@
 - 🧙🏻‍♀️ Akkoma (Mastodon): [@marta@corteximplant.net](https://corteximplant.net/marta)
 
 #### Other git accounts
+- ⚒️ Forgejo: [git.pionaiki.com/marta](https://git.pionaiki.com/marta)
 - ⚒️ Forgejo: [git.cyberwa.re/marta](https://git.cyberwa.re/marta)
 - 🍵 Gitea: [git.xenua.me/marta](https://git.xenua.me/marta)
 
