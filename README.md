@@ -1,4 +1,5 @@
 ## Marta's GitHub
+For all of my personal projects, see my [personal git account](https://git.pionaiki.com/marta) which hosts/mirrors all my public projects.
 
 - ℹ️ About Me + Contact: [pionaiki.com](https://pionaiki.com)
 - 👥 LinkedIn: [in/pionaiki](https://pionaiki.com/in)
