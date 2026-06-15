@@ -8,8 +8,6 @@ For all of my personal projects, see my [personal git account](https://git.piona
 #### Other git accounts
 - 🌸 Personal: [git.pionaiki.com/marta](https://git.pionaiki.com/marta)
 - ⛰️ Codeberg: [coreberg.org/pionaiki](https://codeberg.org/pionaiki)
-- ⚒️ Other: [git.cyberwa.re/marta](https://git.cyberwa.re/marta)
-- ⚒️ Other: [git.xenua.me/marta](https://git.xenua.me/marta)
 
 <!--
 **pionaiki/pionaiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
